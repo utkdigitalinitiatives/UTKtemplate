@@ -81,27 +81,6 @@
         			    <!-- Collect the nav links, forms, and other content for toggling -->
 
 
-
-
-
-      <form method="post" action="http://google.tennessee.edu/search">
-          <div class="form-group">
-             <input title="Find Page" type="text" class="form-control" name="q"  maxlength="256" onfocus="if(this.value == 'Search This Site') { this.value = ''; }" value="Search This Site">
-          </div>
-      
-          <input type="hidden" name="output" value="xml_no_dtd">
-          <input type="hidden" name="oe" value="UTF-8">
-          <input type="hidden" name="ie" value="UTF-8">
-          <input type="hidden" name="ud" value="1">
-          <input type="hidden" name="site" value="Knoxville">
-          <input type="hidden" name="client" value="utk_translate_frontend">
-          <input type="hidden" name="entqr" value="3">
-          <input type="hidden" name="as_sitesearch" value="utk.edu" title="search type"><!-- To turn this into a site-specific search, change the value of this element to: "YOURURL.utk.edu" -->
-          <input type="hidden" name="proxystylesheet" value="utk_translate_frontend">
-          <input type="submit" name="btnF" class="sr-only" value="Go">
-      </form>
-
-
                   <div id="megamenu">
   <ul class="mainnav" role="menu">
        

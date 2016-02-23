@@ -83,10 +83,15 @@
 
                   <div id="megamenu">
   <ul class="mainnav" role="menu">
-       
+  			<!-- Begin Home -->
               <li>
-                <a class="home_button" href="/" role="button"  >Home <i class="icon-fa-home pull-right"></i></a>
+                <a class="home_button" href="http://www.lib.utk.edu/" tabindex="2"  role="button"  >University Libraries - Home <i class="icon-fa-home pull-right"></i></a>
               </li>
+              <!-- End Home -->
+              <!-- Begin Chat -->
+              <li id="giving"><div id="libchat_bd424d3d3d93b89b7215b2ac519a7d7e"></div><script type="text/javascript" src="//v2.libanswers.com/load_chat.php?hash=bd424d3d3d93b89b7215b2ac519a7d7e"></script></li>
+			  <!-- End Chat -->
+              
               <li class="top-menu-item">
               <button id="drop2" class="list-item-button" aria-haspopup="true" role="button" >All Pages <i class="icon-fa-chevron-right pull-right"></i></button>
                 <div class="megamenu-sub" id="menu-one"  aria-labelledby="drop2" aria-expanded="false">

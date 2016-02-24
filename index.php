@@ -14,7 +14,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
-	<title>Your UT Unit Name | The University of Tennessee, Knoxville</title>
+	<title>University Libraries | The University of Tennessee, Knoxville</title>
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="shortcut icon" href="/images/interface/icon-114x114.png">
 <link rel="shortcut icon" href="/images/interface/favicon.gif">

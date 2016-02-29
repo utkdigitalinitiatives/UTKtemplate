@@ -271,84 +271,9 @@
 	</div><!-- #primary -->
 </div><!-- .main-content -->
 
-    <footer id="colophon" class="site-footer" role="contentinfo">
-
-                <!-- If you would like to have an 'expanded footer' (four columns of supplementary content) you should place it here.  -->
-                <!-- For a sample of the Expanded footer's HTML, check the `/library/partials/` directory.  -->
-
-    
-  <div id="siteinfo">
-		<div id="meta-info">
-      <p>
-        <!-- Here is where you add you Site's name -->
-        <strong class="sitetile">Your UT Unit Name</strong><br>
-        <!-- If you have a parent unit. Add it here -->
-        <a href='http://www.utk.edu'><i>Parent Unit</i></a>
-      </p>
-		</div>
-    <div id="meta-contact">
-        <!-- Here is where you can add your contact information -->
-      <p>123 Fake Street. Knoxville TN 37918 <br>
-        Phone:&nbsp;865-974-XXXX
-        <span class="emailList"><span class='bg-scr dividingBullet'>&bull;</span> Email:&nbsp;<a href="mailto:netid@utk.edu" >netid@utk.edu</a></span></p>
-    </div>
-
-   </div><!-- #siteinfo -->
-
-
-
-
-        <!-- Here Begins The Campus Footer. Do not touch below this line -->
-
- <div id="campus-footer">
-   <div id="utk">
-     <div id="bobi">
-        <h2><a href="http://www.utk.edu" class="logo icon-bobi-main">The University of Tennessee</a></h2>
-      </div>
-      <div id="address">
-          <p><strong>The University of Tennessee, Knoxville</strong><br>Knoxville, Tennessee 37996<br> 865-974-1000</p>
-      </div>
-    </div>
-
-    <div id="toolkit">
-      <form method="post" action="http://google.tennessee.edu/search">
-          <div class="form-group">
-             <input type="text" class="form-control" name="q"  maxlength="256" onfocus="if(this.value == 'Search utk.edu') { this.value = ''; }" value="Search utk.edu" title="Search UT Knoxville">
-          </div>
-          <input type="submit" name="btnG" class="btn btn-orange"  value="Go">
-      
-          <input type="hidden" name="output" value="xml_no_dtd">
-          <input type="hidden" name="oe" value="UTF-8">
-          <input type="hidden" name="ie" value="UTF-8">
-          <input type="hidden" name="ud" value="1">
-          <input type="hidden" name="site" value="Knoxville">
-          <input type="hidden" name="client" value="utk_translate_frontend">
-          <input type="hidden" name="entqr" value="3">
-          <!--    <input type="hidden" name="sitesearch" value="utk.edu" /> -->
-          <input type="hidden" name="qtype" class="searchtext" value="utk" title="search type">
-          <input type="hidden" name="proxystylesheet" value="utk_translate_frontend">
-      </form>
-      <br>
-      <nav  role="navigation">
-          <ul>
-            <li><a href="http://www.utk.edu/events/">Events</a></li>
-            <li><a href="http://www.utk.edu/maps/">Map</a></li>
-          </ul>  
-          <ul>
-            <li><a href="http://www.utk.edu/alpha/">A-Z </a></li>
-            <li><a href="http://directory.utk.edu">Directory</a></li>
-          </ul>  
-          <ul>
-            <li><a href="http://www.utk.edu/admissions/">Apply</a></li>
-            
-            <li>
-            <a href="http://giveto.utk.edu">Give to UT</a>
-            </li>
-                      </ul>  
-      </nav>
-    </div>
-</div>  
-</footer><!-- #colophon -->
+<!--  begin footer include -->
+<?php include("https://www.lib.utk.edu/template/2016/includes-utlibraries/footer.php"); ?>
+<!--  end footer include -->
 
 </div><!-- #main -->
 

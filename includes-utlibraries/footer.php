@@ -23,7 +23,7 @@ Phone: (865) 974-4351<br />
         &nbsp;
         <a href="https://www.youtube.com/user/utklibraries"><img src="https://www.lib.utk.edu/template/2016/images-utlibraries/social-media/youtube-16.png" title="UT Libraries on YouTube" alt="UT Libraries on YouTube" width="16" height="16" /></a>
 		        &nbsp;
-		        <a href="https://itunes.apple.com/us/app/tennessee/id548076679?mt=8"><img src="https://www.lib.utk.edu/template/2016/images-utlibraries/social-media/ut-16.png" title="University of Tennessee iOS App" alt="University of Tennessee iOS App" width="16" height="16" /></a></p>
+		        <a href="httpss://itunes.apple.com/us/app/tennessee/id548076679?mt=8"><img src="https://www.lib.utk.edu/template/2016/images-utlibraries/social-media/ut-16.png" title="University of Tennessee iOS App" alt="University of Tennessee iOS App" width="16" height="16" /></a></p>
     </div>
 
    </div><!-- #siteinfo -->

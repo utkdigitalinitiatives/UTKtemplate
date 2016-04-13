@@ -44,7 +44,7 @@ Phone: (865) 974-4351<br />
     </div>
 
     <div id="toolkit">
-      <form method="post" action="//google.tennessee.edu/search">
+      <form method="post" action="http://google.tennessee.edu/search">
           <div class="form-group">
              <input type="text" class="form-control" name="q"  maxlength="256" onfocus="if(this.value == 'Search utk.edu') { this.value = ''; }" value="Search utk.edu" title="Search UT Knoxville">
           </div>

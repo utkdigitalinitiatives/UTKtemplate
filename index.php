@@ -92,125 +92,11 @@
               <li id="giving"><div id="libchat_bd424d3d3d93b89b7215b2ac519a7d7e"></div><script type="text/javascript" src="//v2.libanswers.com/load_chat.php?hash=bd424d3d3d93b89b7215b2ac519a7d7e"></script></li>
 			  <!-- End Chat -->
               
-              <li class="top-menu-item">
-              <button id="drop2" class="list-item-button" aria-haspopup="true" role="button" >All Pages <i class="icon-fa-chevron-right pull-right"></i></button>
-                <div class="megamenu-sub" id="menu-one"  aria-labelledby="drop2" aria-expanded="false">
-                  <button class="menu-back btn"  data-toggle="dropdown"  role="button"><i class="icon-fa-chevron-left"></i> <span class="back">Back</span></button>
-                    <h3>All Pages </h3>
-                    <div class="inner">
-                    <div class="menu-header">
-                      <ul class="menu">
-                        <li class="menu-item"><a href="/">Home</a></li>
-                        <li class="menu-item"><a href="#">Blog</a></li>
-                        <li class="current_page_item"><a href="#">Front Page</a></li>
-                        <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">About The Tests</a>
-                          <ul class="sub-menu">
-                            <li class="menu-item"><a href="#">Page Image Alignment</a></li>
-                            <li class="menu-item"><a href="#">Page Markup And Formatting</a></li>
-                            <li class="menu-item"><a href="#">Clearing Floats</a></li>
-                            <li class="menu-item"><a href="#">Page with comments</a></li>
-                            <li class="menu-item"><a href="#">Page with comments disabled</a></li>
-                          </ul>
-                        </li>
-                        <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Level 1</a>
-                          <ul class="sub-menu">
-                          	<li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Level 2</a>
-                            	<ul class="sub-menu">
-                            		<li class="menu-item"><a href="#">Level 3</a></li>
-                            		<li class="menu-item"><a href="#">Level 3a</a></li>
-                            		<li class="menu-item"><a href="#">Level 3b</a></li>
-                            	</ul>
-                            </li>
-                          	<li class="menu-item"><a href="#">Level 2a</a></li>
-                          	<li class="menu-item"><a href="#">Level 2b</a></li>
-                          </ul>
-                        </li>
-                        <li class="menu-item"><a href="#">Lorem Ipsum</a></li>
-                        <li class="menu-item"><a href="#">Page A</a></li>
-                        <li class="menu-item"><a href="#">Page B</a></li>
+              <!-- Begin Library Navigation -->
+<?php include("https://www.lib.utk.edu/template/2016/includes-utlibraries/libnav.php"); ?>
+<!-- End Library Navigation -->
+              
                       </ul>
-                    </div>
-                  </div>
-            </div>
-              </li>
-              <li class="top-menu-item">
-                <button id="drop3" class="list-item-button" aria-haspopup="true" role="button">Short <i class="icon-fa-chevron-right pull-right"></i></button>
-                <div class="megamenu-sub dropdown-menu" id="menu-two"  aria-labelledby="drop3" aria-expanded="false">
-                  <button  class="menu-back btn" data-toggle="dropdown" role="button" ><i class="icon-fa-chevron-left"></i> <span class="back">Back</span></button>
-                  <h3>Short </h3>
-                  <div class="inner">
-                    <div class="menu-header">
-                      <ul id="menu-short" class="menu">
-                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1629"><a href="#">Home</a></li>
-                        <li class="menu-item"><a href="#">Blog</a></li>
-                        <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">About The Tests</a>
-                        <ul class="sub-menu">
-                        	<li class="menu-item"><a href="#">Clearing Floats</a></li>
-                        	<li class="menu-item"><a href="#">Page with comments</a></li>
-                        	<li class="menu-item"><a href="#">Page with comments disabled</a></li>
-                        </ul>
-                        </li>
-                        <li class="menu-item"><a href="#">Lorem Ipsum</a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li class="top-menu-item">
-                <button  id="drop4" class="list-item-button" aria-haspopup="true" role="button">Testing Menu <i class="icon-fa-chevron-right pull-right"></i></button>
-                  <div class="megamenu-sub dropdown-menu" id="menu-three"  aria-labelledby="drop4" aria-expanded="false">
-                  <button class="menu-back btn"  data-toggle="dropdown" aria-haspopup="true" role="button"><i class="icon-fa-chevron-left"></i> <span class="back">Back</span></button>
-                  <h3>Testing Menu </h3>
-                    <div class="inner">
-                    <div class="menu-header">
-                      <ul class="menu">
-                        <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Pages</a>
-                          <ul class="sub-menu">
-                          	<li class="menu-item"><a href="#">Page Image Alignment</a></li>
-                          	<li class="menu-item"><a href="#">Page Image Alignment</a></li>
-                          	<li class="menu-item"><a href="#">Page Markup And Formatting</a></li>
-                          	<li class="menu-item"><a href="#">Page Markup And Formatting</a></li>
-                          </ul>
-                        </li>
-                        <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Categories</a>
-                          <ul class="sub-menu">
-                          	<li class="menu-item"><a href="#">Markup</a></li>
-                          	<li class="menu-item"><a href="#">Unpublished</a></li>
-                          </ul>
-                        </li>
-                        <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Depth</a>
-                          <ul class="sub-menu">
-                          	<li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Level 01</a>
-                          	<ul class="sub-menu">
-                          		<li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Level 02</a>
-                          		  <ul class="sub-menu">
-                          			  <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Level 03</a>
-                                    <ul class="sub-menu">
-                                      <li class="menu-item" aria-haspopup="true" aria-expanded="false"><a href="#">Level 04</a>
-                                      </li>
-                                    </ul>
-                                  </li>
-                                </ul>
-                              </li>
-                          	</ul>
-                          </li>
-                          </ul>
-                        </li>
-                        <li class="menu-item menu-item-type-custom" aria-haspopup="true" aria-expanded="false"><a href="#">Advanced</a>
-                          <ul class="sub-menu">
-                          	<li class="menu-item"><a title="Custom Title Attribute" href="#">Menu Title Attribute</a></li>
-                          	<li class="menu-item"><a href="#">Menu CSS Class</a></li>
-                          	<li class="menu-item"><a target="_blank" href="#">New Window / Tab</a></li>
-                          </ul>
-                        </li>
-                        <li class="menu-item"><a href="#">Menu Description</a></li>
-                      </ul>
-                    </div>
-                  </div>
-            </div>
-          </li>
-          <li id="giving"><a href="http://giveto.utk.edu">Give to UT <i class="icon-fa-gift fa-lg pull-right"></i></a></li>
-        </ul>
       </div>
     </nav><!-- #site-navigation -->
         </div>
@@ -235,6 +121,8 @@
                   <header class="entry-header"><h1 class="entry-title">Front Page</h1></header>
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
                   <p>Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum. Defacto lingo est igpay atinlay. Marquee selectus non provisio incongruous feline nolo contendre. Gratuitous octopus niacin, sodium glutimate. Quote meon an estimate et non interruptus stadium. Sic tempus fugit esperanto hiccup estrogen. Glorious baklava ex librus hup hey ad infinitum. Non sequitur condominium facile et geranium incognito. Epsum factorial non deposit quid pro quo hic escorol. Marquee selectus non provisio incongruous feline nolo contendre Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum.</p>
+                  
+                      <p>Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum. Defacto lingo est igpay atinlay. Marquee selectus non provisio incongruous feline nolo contendre. Gratuitous octopus niacin, sodium glutimate. Quote meon an estimate et non interruptus stadium. Sic tempus fugit esperanto hiccup estrogen. Glorious baklava ex librus hup hey ad infinitum. Non sequitur condominium facile et geranium incognito. Epsum factorial non deposit quid pro quo hic escorol. Marquee selectus non provisio incongruous feline nolo contendre Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum.</p>
 
                 <!-- And here are a couple of helpers to get you started in page layout -->
                 <!-- Whenever you need to begin a fresh 'new row' of content. Add br with the class of clear  -->

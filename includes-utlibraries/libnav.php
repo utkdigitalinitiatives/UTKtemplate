@@ -31,11 +31,10 @@
                   <div class="inner">
                     <div class="menu-header">
                       <ul class="menu">
+	         <li class="menu-item"><a href="https://www.lib.utk.edu/askusnow/">AskUsNow</a></li>             
             <li class="menu-item"><a href="https://www.lib.utk.edu/access/borrow-renew/">Borrow Items</a></li>
             <li class="menu-item"><a href="https://www.lib.utk.edu/access/renewals/renew-items/">Renew Items</a></li>
             <li class="menu-item"><a href="https://www.lib.utk.edu/request/">Request Items</a></li>
-            <li class="menu-item"><a href="https://www.lib.utk.edu/askusnow/">Research Consultations</a></li>
-            <li class="menu-item"><a href="https://www.lib.utk.edu/scholar/">Scholars’ Collaborative</a></li>
             <li class="menu-item"><a href="https://www.lib.utk.edu/access/rooms/">Reserve a Room</a></li>
             <li class="menu-item"><a href="https://www.lib.utk.edu/access/course-reserves">Place Items on Reserve</a></li>
             <li class="menu-item"><a href="https://www.lib.utk.edu/info/disabilities">Disabilities Services</a></li>
@@ -56,8 +55,9 @@
                   <div class="inner">
                     <div class="menu-header">
                       <ul class="menu">
+	                    <li class="menu-item"><a href="https://www.lib.utk.edu/scholar/">Scholars’ Collaborative</a></li>   
 					   <li class="menu-item"><a href="https://www.lib.utk.edu/askusnow/subject-librarians/">Subject Librarians</a></li>
-					   <li class="menu-item"><li><a href="http://www.lib.utk.edu/askusnow/appointment/">Research Consultation</a></li>
+					   <li class="menu-item"><li><a href="https://www.lib.utk.edu/askusnow/appointment/">Research Consultation</a></li>
 					   <li class="menu-item"><li><a href="http://libguides.utk.edu/">Research Guides</a></li>
 					   <li class="menu-item"><li><a href="http://libguides.utk.edu/style/">Citing Sources</a></li>
 					   <li class="menu-item"><a href="http://libguides.utk.edu/citeman/">EndNote | Zotero</a></li>
@@ -76,13 +76,13 @@
                   <div class="inner">
                     <div class="menu-header">
                       <ul class="menu">
-					<li class="menu-item"><a href="https://www.lib.utk.edu/">Hodges - Main Library</a></li>
-					<li class="menu-item"><a href="https://www.lib.utk.edu/agvet/">Agriculture and Veterinary Medicine Library</a></li>
+					<li class="menu-item"><a href="https://www.lib.utk.edu/">Main Library</a></li>
+					<li class="menu-item"><a href="https://www.lib.utk.edu/agvet/">Ag Vet Med Library</a></li>
 					<li class="menu-item"><a href="https://www.lib.utk.edu/music/">Music Library</a></li>
-					<li class="menu-item"><a href="https://www.lib.utk.edu/swln/">Social Work Library - Nashville</a></li>
-					<li class="menu-item"><a href="http://www.lib.utk.edu/special">Special Collections</a></li>
-					<li class="menu-item"><a href="http://www.lib.utk.edu/special/mpa/">Modern Political Archives</a></li>
-					<li class="menu-item"><a href="https://www.lib.utk.edu/request/storage/">Storage and Map Collection</a></li>
+					<li class="menu-item"><a href="https://www.lib.utk.edu/swln/">Social Work Library</a></li>
+					<li class="menu-item"><a href="https://www.lib.utk.edu/special">Special Collections</a></li>
+					<li class="menu-item"><a href="https://www.lib.utk.edu/special/mpa/">Modern Political Archives</a></li>
+					<li class="menu-item"><a href="https://www.lib.utk.edu/request/storage/">Storage & Maps</a></li>
 					<li class="menu-item"><a href="http://commons.utk.edu">The Commons</a></li>
 					<li class="menu-item"><a href="https://www.lib.utk.edu/studio/">The Studio</a></li>
 					<li class="menu-item"><a href="http://onestop.utk.edu">One Stop</a></li>
@@ -105,10 +105,10 @@
 					   <li class="menu-item"><a href="http://libanswers.utk.edu/">Questions and Answers (FAQ)</a></li>
 					   <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="https://www.lib.utk.edu/info/">Resources For:</a>
 					     <ul class="sub-menu">
-                          <li class="menu-item"><a title="Information for Undergraduates" href="http://www.lib.utk.edu/info/undergrad/">Undergraduates</a></li>
-	                      <li class="menu-item"><a title="Information for Graduate Students" href="http://www.lib.utk.edu/info/grad/">Graduate Students</a></li>
-	                      <li class="menu-item"><a title="Information for Faculty" href="http://www.lib.utk.edu/info/faculty/">Faculty</a></li>
-	                      <li class="menu-item"><a title="Information for Community and Visitors" href="http://www.lib.utk.edu/info/community/">Community</a></li>
+                          <li class="menu-item"><a title="Information for Undergraduates" href="https://www.lib.utk.edu/info/undergrad/">Undergraduates</a></li>
+	                      <li class="menu-item"><a title="Information for Graduate Students" href="https://www.lib.utk.edu/info/grad/">Graduate Students</a></li>
+	                      <li class="menu-item"><a title="Information for Faculty" href="https://www.lib.utk.edu/info/faculty/">Faculty</a></li>
+	                      <li class="menu-item"><a title="Information for Community and Visitors" href="https://www.lib.utk.edu/info/community/">Community</a></li>
 	                      <li class="menu-item"><a title="Disabilities Services" href="http://www.lib.utk.edu/info/disabilities/">Patrons with Disabilities</a></li>
 	
                           </ul></li>

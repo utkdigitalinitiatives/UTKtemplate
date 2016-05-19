@@ -138,6 +138,7 @@
                        <li class="menu-item"><a href="https://www.lib.utk.edu/about/administration/">Administration</a></li>
                        <li class="menu-item"><a href="https://www.lib.utk.edu/employment/">Employment</a></li>
                        <li class="menu-item"><a href="https://www.lib.utk.edu/society/">The Library Society</a></li>
+                       <li class="menu-item"><a href="https://www.lib.utk.edu/about/a-z/">Libraries A-Z</a></li>
 					   
                       </ul>
                     </div>

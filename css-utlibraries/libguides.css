@@ -1,0 +1,5 @@
+/* Fixes LibGuides tab fonts to remove shawdowing */
+
+.site-content li a {
+    text-shadow:none;
+    }

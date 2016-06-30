@@ -92,10 +92,65 @@
                 <a class="home_button" href="http://www.lib.utk.edu/" tabindex="2"  role="button"  >University Libraries - Home <i class="icon-fa-home pull-right"></i></a>
               </li>
               <!-- End Home -->
-              <!-- Begin Chat -->
+             
+              <!-- Start Site Specfic navigation menu -->
+              <li class="top-menu-item">
+  <button  id="drop4" class="list-item-button" aria-haspopup="true" role="button"><strong>Site Menu</strong> <i class="icon-fa-chevron-right pull-right"></i></button>
+    <div class="megamenu-sub dropdown-menu" id="menu-three"  aria-labelledby="drop4" aria-expanded="false">
+    <button class="menu-back btn"  data-toggle="dropdown" aria-haspopup="true" role="button"><i class="icon-fa-chevron-left"></i> <span class="back">Back</span></button>
+    <h3>Testing Menu </h3>
+      <div class="inner">
+      <div class="menu-header">
+        <ul class="menu">
+          <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Pages</a>
+            <ul class="sub-menu">
+              <li class="menu-item"><a href="#">Page Image Alignment</a></li>
+              <li class="menu-item"><a href="#">Page Image Alignment</a></li>
+              <li class="menu-item"><a href="#">Page Markup And Formatting</a></li>
+              <li class="menu-item"><a href="#">Page Markup And Formatting</a></li>
+            </ul>
+          </li>
+          <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Categories</a>
+            <ul class="sub-menu">
+              <li class="menu-item"><a href="#">Markup</a></li>
+              <li class="menu-item"><a href="#">Unpublished</a></li>
+            </ul>
+          </li>
+          <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Depth</a>
+            <ul class="sub-menu">
+              <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Level 01</a>
+              <ul class="sub-menu">
+                <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Level 02</a>
+                  <ul class="sub-menu">
+                    <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="#">Level 03</a>
+                      <ul class="sub-menu">
+                        <li class="menu-item" aria-haspopup="true" aria-expanded="false"><a href="#">Level 04</a>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            </ul>
+          </li>
+          <li class="menu-item menu-item-type-custom" aria-haspopup="true" aria-expanded="false"><a href="#">Advanced</a>
+            <ul class="sub-menu">
+              <li class="menu-item"><a title="Custom Title Attribute" href="#">Menu Title Attribute</a></li>
+              <li class="menu-item"><a href="#">Menu CSS Class</a></li>
+              <li class="menu-item"><a target="_blank" href="#">New Window / Tab</a></li>
+            </ul>
+          </li>
+          <li class="menu-item"><a href="#">Menu Description</a></li>
+        </ul>
+      </div>
+    </div>
+</div>
+</li>
+   <!-- End Site Specfic navigation menu -->              
+    <!-- Begin Chat -->
               <li id="giving"><div id="libchat_bd424d3d3d93b89b7215b2ac519a7d7e"></div><script type="text/javascript" src="//v2.libanswers.com/load_chat.php?hash=bd424d3d3d93b89b7215b2ac519a7d7e"></script></li>
-			  <!-- End Chat -->
-              
+			  <!-- End Chat -->           
               <!-- Begin Library Navigation -->
 <?php include("https://www.lib.utk.edu/template/2016/includes-utlibraries/libnav.php"); ?>
 <!-- End Library Navigation -->

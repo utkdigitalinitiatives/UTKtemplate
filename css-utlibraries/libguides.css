@@ -3,8 +3,30 @@
 .site-content li a {
     text-shadow:none;
     }
-    
-@media (min-width: 1200px)
+
+/* Make some backgrounds white if want we want them to be */
+  
+/*
+body {
+    background: #ffffff;
+    width: 100%;
+}
+*/
+
+/*
+#page {
+    background: #ffffff;
+    width:100%;
+}
+*/
+
+/* putting this here may be overkill, if it causes problems with other page / elements and resultions move into the min-width: 1200px media query  */
+
 .container {
-width:auto !important;
+width:auto;
+}
+ 
+@media (min-width: 1200px) {
+	
+
 }

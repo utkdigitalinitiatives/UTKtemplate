@@ -23,7 +23,7 @@ body {
 /* putting this here may be overkill, if it causes problems with other page / elements and resultions move into the min-width: 1200px media query  */
 
 .container {
-width:auto;
+width:95%;
 }
  
 @media (min-width: 1200px) {

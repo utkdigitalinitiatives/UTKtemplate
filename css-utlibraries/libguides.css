@@ -13,14 +13,10 @@ body {
 }
 */
 
-/*
 #page {
     background: #ffffff;
-    width:100%;
 }
-*/
 
-/* putting this here may be overkill, if it causes problems with other page / elements and resultions move into the min-width: 1200px media query  */
 
 .container {
 width:95%;

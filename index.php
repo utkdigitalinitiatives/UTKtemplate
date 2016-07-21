@@ -47,11 +47,9 @@
 <!--[if lt IE 9]>
 	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<style>
-	.libchat_online, .libchat_offline {
-	text-align: left !important;
-	}
-	</style> 
+
+<link rel='stylesheet' href='https://www.lib.utk.edu/template/2016/css-utlibraries/custom.css' type='text/css' media='all' />
+ 
 </head>
 <body class="dropnav">
 

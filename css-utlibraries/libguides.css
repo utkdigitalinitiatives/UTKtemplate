@@ -21,8 +21,8 @@ body {
 width:95%;
 }
 
-/* Added for LibAnswers breadcrumbs */
-.s-la-color-bars {
+/* Added to remove background color from LibAnswers breadcrumbs */
+ol.s-la-color-bars {
 	background: none;
 }
  

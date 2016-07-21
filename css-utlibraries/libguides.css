@@ -20,6 +20,11 @@ body {
 .container {
 width:95%;
 }
+
+/* Added for LibAnswers breadcrumbs */
+.s-la-color-bars {
+	background: none;
+}
  
 @media (min-width: 1200px) {
 	

@@ -3,6 +3,12 @@
 .site-content li a {
     text-shadow:none;
     }
+    
+/*  Increases box title font size  */
+ 
+ h2.s-lib-box-title {
+	 font-size: 18px !important; 
+    }
 
 /* Make some backgrounds white if want we want them to be */
   

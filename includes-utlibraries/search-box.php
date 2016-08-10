@@ -5,11 +5,11 @@
 </div>
 |
 <div class="search-link">
-<a href="http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?mode=Advanced&ct=AdvancedSearch&vid=01UTK">Advanced Search</a>
+<a href="http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?mode=Advanced&ct=AdvancedSearch&vid=01UTK" target="_blank">Advanced Search</a>
 </div>
 |
 <div class="search-link">
-<a href="http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=showBrowse&mode=BrowseSearch&vid=01UTK">Browse UT Collections</a>
+<a href="http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=showBrowse&mode=BrowseSearch&vid=01UTK" target="_blank">Browse UT Collections</a>
 </div>
 </div>
 <form accept-charset="iso-8859-1" action="/onesearch.php" method="post"><input class=" form-control searchfield" title="search" name="box" type="text" onfocus="if(this.value == 'Search for books, articles, media, digital collections . . .') { this.value = ''; }" value="Search for books, articles, media, digital collections . . ." width="100%" />

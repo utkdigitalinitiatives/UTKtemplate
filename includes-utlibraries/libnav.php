@@ -77,7 +77,7 @@
                     <div class="menu-header">
                       <ul class="menu">
 					<li class="menu-item"><a href="https://www.lib.utk.edu/">Main Library</a></li>
-					<li class="menu-item"><a href="https://www.lib.utk.edu/agvet/">Ag Vet Med Library</a></li>
+					<li class="menu-item"><a href="https://www.lib.utk.edu/agvet/">Pendergrass Library</a></li>
 					<li class="menu-item"><a href="https://www.lib.utk.edu/music/">Music Library</a></li>
 					<li class="menu-item"><a href="https://www.lib.utk.edu/swln/">Social Work Library</a></li>
 					<li class="menu-item"><a href="https://www.lib.utk.edu/special">Special Collections</a></li>

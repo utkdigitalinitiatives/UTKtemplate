@@ -119,7 +119,7 @@
 </div><!-- #page -->
 
 
-<script type='text/javascript' src='library/js/min/utk-min.js?ver=2015-05-20'></script>
+<script type='text/javascript' src='https://www.lib.utk.edu/template/2016/library/js/min/utk-min.js?ver=2015-05-20'></script>
 
 		</body>
 </html>

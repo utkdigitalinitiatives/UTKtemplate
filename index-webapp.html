@@ -72,7 +72,7 @@
 
       
 	<div id="primary" class="web-app-content-area">
-		<div id="content" class="site-content site-content wide" role="main">
+		<div id="content" class="site-content wide" role="main">
 
 				<article class="hentry">
 

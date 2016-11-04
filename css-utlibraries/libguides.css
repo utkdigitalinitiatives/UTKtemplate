@@ -31,6 +31,13 @@ width:95%;
 ol.s-la-color-bars {
 	background: none;
 }
+
+/* Changes button color to orange */
+
+.btn-primary{
+background-color: #FF8200 !important;	
+}
+
  
 @media (min-width: 1200px) {
 	

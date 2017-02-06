@@ -14,14 +14,8 @@
                           <li class="menu-item"><a title="E-Journals by Subject" href="https://www.lib.utk.edu/ejournals/">By Subject</a></li>
 	                      <li class="menu-item">
 	                      <a title="E-Journals by Title" href="http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=01UTK&institution=01UTK&azSearch=true&fn=almaAzSearch">By Title</a></li>
-
-	
-                          </ul></li>
-					 
-					 
-					 
-					 
-					 
+                          </ul>
+                          </li>
 					 
 					 <li class="menu-item"><a href="https://www.lib.utk.edu/reserves">Course Reserves</a></li>
 					 <li class="menu-item"><a href="http://digital.lib.utk.edu">Digital Collections</a></li>
@@ -51,8 +45,15 @@
             <li class="menu-item"><a href="https://www.lib.utk.edu/access/rooms/">Reserve a Room</a></li>
             <li class="menu-item"><a href="https://www.lib.utk.edu/access/course-reserves">Place Items on Reserve</a></li>
             <li class="menu-item"><a href="https://www.lib.utk.edu/info/disabilities">Disabilities Services</a></li>
-            <li class="menu-item"><a href="https://www.lib.utk.edu/access/accounts/">My Library Accounts</a></li>
+            <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="https://www.lib.utk.edu/access/accounts/">My Library Accounts:</a>
+            <ul class="sub-menu">
+                          <li class="menu-item"><a title="Renewals and More" href="https://utk-almaprimo.hosted.exlibrisgroup.com/pds?func=load-login&institute=01UTK&calling_system=primo&lang=eng&url=http://utk-almaprimo.hosted.exlibrisgroup.com:80/primo_library/libweb/action/login.do?targetURL=http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/myAccountMenu.do?menuitem=0&fromTop=true&fromPreferences=false&fromEshelf=false&vid=01UTK">Renewals and More</a></li>
+	                      <li class="menu-item">
+	                      <a title="Interlibrary Services" href="https://www.lib.utk.edu/ils/illiad-logon">Interlibrary Services</a></li>
+                          </ul>
             
+            
+            </li>          
                       </ul>
                     </div>
                   </div>

@@ -1,9 +1,9 @@
 <!-- Begin Search and Find -->
               <li class="top-menu-item">
-              <button id="drop3" class="list-item-button" aria-haspopup="true" role="button" tabindex="3">Search and Find <i class="icon-fa-chevron-right pull-right"></i></button>
+              <button id="drop3" class="list-item-button" aria-haspopup="true" role="button" tabindex="3">Find Materials<i class="icon-fa-chevron-right pull-right"></i></button>
                 <div class="megamenu-sub" id="menu-two"  aria-labelledby="drop3" aria-expanded="false">
                   <button class="menu-back btn"  data-toggle="dropdown"  role="button"><i class="icon-fa-chevron-left"></i> <span class="back">Back</span></button>
-                    <h3>Search and Find </h3>
+                    <h3>Find Materials</h3>
                     <div class="inner">
                     <div class="menu-header">
                       <ul class="menu">

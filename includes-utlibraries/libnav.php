@@ -18,7 +18,7 @@
                           </li>
 					 
 					 <li class="menu-item"><a href="https://www.lib.utk.edu/reserves">Course Reserves</a></li>
-					 <li class="menu-item"><a href="http://digital.lib.utk.edu">Digital Collections</a></li>
+					 <li class="menu-item"><a href="https://digital.lib.utk.edu">Digital Collections</a></li>
 					 <li class="menu-item"><a href="http://dlc.lib.utk.edu/spc/search">Special Collections Online</a></li>
 					 <li class="menu-item"><a href="http://libguides.utk.edu/govinfo">Government Information</a></li>
 					 <li class="menu-item"><a href="http://libanswers.utk.edu/faq/73573">UT Dissertations</a></li>
@@ -122,7 +122,7 @@
 	                      <li class="menu-item"><a title="Information for Graduate Students" href="https://www.lib.utk.edu/info/grad/">Graduate Students</a></li>
 	                      <li class="menu-item"><a title="Information for Faculty" href="https://www.lib.utk.edu/info/faculty/">Faculty</a></li>
 	                      <li class="menu-item"><a title="Information for Community and Visitors" href="https://www.lib.utk.edu/info/community/">Community</a></li>
-	                      <li class="menu-item"><a title="Disabilities Services" href="http://www.lib.utk.edu/info/disabilities/">Patrons with Disabilities</a></li>
+	                      <li class="menu-item"><a title="Disabilities Services" href="https://www.lib.utk.edu/info/disabilities/">Patrons with Disabilities</a></li>
 	
                           </ul></li>
 					   <li class="menu-item"><a href="http://libguides.utk.edu/tutorials">Tutorials</a></li>
@@ -147,7 +147,7 @@
                        <li class="menu-item"><a href="https://www.lib.utk.edu/directory">Staff Directory</a></li>
                        <li class="menu-item"><a href="https://www.lib.utk.edu/about/maps/">Maps and Directions</a></li>
                        <li class="menu-item"><a href="https://www.lib.utk.edu/news/">News and Events</a></li>
-                       <li class="menu-item"><a href="http://www.lib.utk.edu/assessment/statistics/">Reports and Quick Facts</a></li> 
+                       <li class="menu-item"><a href="https://www.lib.utk.edu/assessment/statistics/">Reports and Quick Facts</a></li> 
                        <li class="menu-item"><a href="https://www.lib.utk.edu/about/administration/">Administration</a></li>
                        <li class="menu-item"><a href="https://www.lib.utk.edu/employment/">Employment</a></li>
                        <li class="menu-item"><a href="https://www.lib.utk.edu/society/">The Library Society</a></li>

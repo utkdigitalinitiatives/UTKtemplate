@@ -13,7 +13,7 @@
 					     <ul class="sub-menu">
                           <li class="menu-item"><a title="E-Journals by Subject" href="https://www.lib.utk.edu/ejournals/">By Subject</a></li>
 	                      <li class="menu-item">
-	                      <a title="E-Journals by Title" href="http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=01UTK&institution=01UTK&azSearch=true&fn=almaAzSearch">By Title</a></li>
+	                      <a title="E-Journals by Title" href="https://utk-almaprimo.hosted.exlibrisgroup.com/primo-explore/jsearch?vid=01UTK_NEWUI">By Title</a></li>
                           </ul>
                           </li>
 					 

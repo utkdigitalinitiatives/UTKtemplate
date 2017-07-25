@@ -1,15 +1,15 @@
 <div class="search-box">
 <div class="search-link-box">
 <div class="search-link">
-<a href="https://utk-almaprimo.hosted.exlibrisgroup.com/pds?func=load-login&institute=01UTK&calling_system=primo&lang=eng&url=http://utk-almaprimo.hosted.exlibrisgroup.com:80/primo_library/libweb/action/login.do?targetURL=http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?menuitem=0&fromTop=true&fromPreferences=false&fromEshelf=false&vid=01UTK">Sign in</a>
+<a href="https://utk-almaprimo.hosted.exlibrisgroup.com/pds?func=load-login&calling_system=primo&institute=01UTK&lang=eng&url=https://utk-almaprimo.hosted.exlibrisgroup.com:443/primo_library/libweb/pdsLogin?targetURL=https://utk-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?vid=01UTK_NEWUI&lang=en%255FUS&sortby=rank&from-new-ui=1&authenticationProfile=BASE_PROFILE">Sign in</a>
 </div>
 |
 <div class="search-link">
-<a href="http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?mode=Advanced&ct=AdvancedSearch&vid=01UTK" target="_blank">Advanced Search</a>
+<a href="https://utk-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?vid=01UTK_NEWUI&mode=advanced" target="_blank">Advanced Search</a>
 </div>
 |
 <div class="search-link">
-<a href="http://utk-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=showBrowse&mode=BrowseSearch&vid=01UTK" target="_blank">Browse UT Collections</a>
+<a href="https://utk-almaprimo.hosted.exlibrisgroup.com/primo-explore/browse?vid=01UTK_NEWUI" target="_blank">Browse UT Collections</a>
 </div>
 </div>
 <form accept-charset="iso-8859-1" action="/onesearch.php" method="post"><input class=" form-control searchfield" title="search" name="box" type="text" onfocus="if(this.value == 'Search for books, articles, media, digital collections . . .') { this.value = ''; }" value="Search for books, articles, media, digital collections . . ." width="100%" />

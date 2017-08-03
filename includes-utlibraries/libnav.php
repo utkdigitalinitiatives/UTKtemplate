@@ -96,7 +96,7 @@
 					<li class="menu-item"><a href="https://www.lib.utk.edu/special">Special Collections</a></li>
 					<li class="menu-item"><a href="https://www.lib.utk.edu/special/mpa/">Modern Political Archives</a></li>
 					<li class="menu-item"><a href="https://www.lib.utk.edu/request/storage/">Storage & Maps</a></li>
-					<li class="menu-item"><a href="http://commons.utk.edu">The Commons</a></li>
+					<li class="menu-item"><a href="https://commons.utk.edu">The Commons</a></li>
 					<li class="menu-item"><a href="https://www.lib.utk.edu/studio/">The Studio</a></li>
 					<li class="menu-item"><a href="http://onestop.utk.edu">One Stop</a></li>
                       </ul>

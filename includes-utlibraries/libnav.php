@@ -70,10 +70,10 @@
                     <div class="menu-header">
                       <ul class="menu">
 					   <li class="menu-item"><a href="https://www.lib.utk.edu/askusnow/subject-librarians/">Subject Librarians</a></li>
-					   <li class="menu-item"><li><a href="https://www.lib.utk.edu/askusnow/appointment/">Research Consultation</a></li>
-					   <li class="menu-item"><li><a href="http://libguides.utk.edu/">Research Guides</a></li>
+					   <li class="menu-item"><a href="https://www.lib.utk.edu/askusnow/appointment/">Research Consultation</a></li>
+					   <li class="menu-item"><a href="http://libguides.utk.edu/">Research Guides</a></li>
 					   <li class="menu-item"><a href="https://www.lib.utk.edu/scholar/">Scholars’ Collaborative</a></li>   
-					   <li class="menu-item"><li><a href="http://libguides.utk.edu/style/">Citing Sources</a></li>
+					   <li class="menu-item"><a href="http://libguides.utk.edu/style/">Citing Sources</a></li>
 					   <li class="menu-item"><a href="http://libguides.utk.edu/citeman/">EndNote | Zotero</a></li>
                       </ul>
                     </div>

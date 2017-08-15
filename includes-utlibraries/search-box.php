@@ -12,7 +12,7 @@
 <a href="https://utk-almaprimo.hosted.exlibrisgroup.com/primo-explore/browse?vid=01UTK_NEWUI" target="_blank">Browse UT Collections</a>
 </div>
 </div>
-<form accept-charset="UTF-8" action="/onesearch.php" method="post"><input class=" form-control searchfield" title="search" name="box" type="text" onfocus="if(this.value == 'Search for books, articles, media, digital collections . . .') { this.value = ''; }" value="Search for books, articles, media, digital collections . . ." width="100%" />
+<form accept-charset="UTF-8" action="/onesearch.php" method="post"><input class="form-control searchfield" title="search" name="box" type="text" onfocus="if(this.value == 'Search for books, articles, media, digital collections . . .') { this.value = ''; }" value="Search for books, articles, media, digital collections . . ." width="100%" />
 	
 <div class="search-options">
 	Limit search to: <input checked="checked" name="searchtype" type="radio" value="onesearch" hidden="yes" /> <input name="searchtype" type="radio" value="utcollections" /> UT Collections <input name="searchtype" type="radio" value="coursereserves" /> Course Reserves

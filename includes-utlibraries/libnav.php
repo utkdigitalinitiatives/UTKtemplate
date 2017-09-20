@@ -47,7 +47,6 @@
             <li class="menu-item"><a href="https://www.lib.utk.edu/info/disabilities">Disabilities Services</a></li>
             <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="https://www.lib.utk.edu/access/accounts/">My Library Accounts:</a>
             <ul class="sub-menu">
-                          <li class="menu-item"><a title="Renewals and More" href="https://www.lib.utk.edu/onesearch-account/">Renewals and More</a></li>
 	                      <li class="menu-item">
 	                      <a title="Interlibrary Services" href="https://www.lib.utk.edu/ils/illiad-logon">Interlibrary Services</a></li>
                           </ul>

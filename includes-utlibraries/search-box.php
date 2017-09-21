@@ -1,3 +1,4 @@
+<a href="https://www.lib.utk.edu/onesearch"><img src="https://www.lib.utk.edu/template/2016/images-utlibraries/onesearch-215.png" class="onesearch-logo" alt="Click to sign in and access OneSearch" title="Click to sign in and access OneSearch" width="215" height="50" /></a>
 <div class="search-box">
 <div class="search-link-box">
 <div class="search-link">

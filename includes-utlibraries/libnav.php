@@ -19,10 +19,10 @@
 					 
 					 <li class="menu-item"><a href="https://www.lib.utk.edu/reserves">Course Reserves</a></li>
 					 <li class="menu-item"><a href="https://digital.lib.utk.edu">Digital Collections</a></li>
-					 <li class="menu-item"><a href="http://dlc.lib.utk.edu/spc/search">Special Collections Online</a></li>
-					 <li class="menu-item"><a href="http://libguides.utk.edu/govinfo">Government Information</a></li>
-					 <li class="menu-item"><a href="http://libanswers.utk.edu/faq/73573">UT Dissertations</a></li>
-					 <li class="menu-item"><a href="http://libguides.utk.edu/streaming">Streaming Video</a></li>
+					 <li class="menu-item"><a href="https://dlc.lib.utk.edu/spc/search">Special Collections Online</a></li>
+					 <li class="menu-item"><a href="https://libguides.utk.edu/govinfo">Government Information</a></li>
+					 <li class="menu-item"><a href="https://libanswers.utk.edu/faq/73573">UT Dissertations</a></li>
+					 <li class="menu-item"><a href="https://libguides.utk.edu/streaming">Streaming Video</a></li>
                       </ul>
                     </div>
                   </div>
@@ -70,10 +70,10 @@
                       <ul class="menu">
 					   <li class="menu-item"><a href="https://www.lib.utk.edu/askusnow/subject-librarians/">Subject Librarians</a></li>
 					   <li class="menu-item"><a href="https://www.lib.utk.edu/askusnow/appointment/">Research Consultation</a></li>
-					   <li class="menu-item"><a href="http://libguides.utk.edu/">Research Guides</a></li>
+					   <li class="menu-item"><a href="https://libguides.utk.edu/">Research Guides</a></li>
 					   <li class="menu-item"><a href="https://www.lib.utk.edu/scholar/">Scholars’ Collaborative</a></li>   
-					   <li class="menu-item"><a href="http://libguides.utk.edu/style/">Citing Sources</a></li>
-					   <li class="menu-item"><a href="http://libguides.utk.edu/citeman/">EndNote | Zotero</a></li>
+					   <li class="menu-item"><a href="https://libguides.utk.edu/style/">Citing Sources</a></li>
+					   <li class="menu-item"><a href="https://libguides.utk.edu/citeman/">EndNote | Zotero</a></li>
                       </ul>
                     </div>
                   </div>
@@ -114,7 +114,7 @@
                     <div class="menu-header">
                       <ul class="menu">
                        <li class="menu-item"><a href="https://www.lib.utk.edu/askusnow/">AskUsNow</a></li>
-					   <li class="menu-item"><a href="http://libanswers.utk.edu/">Frequently Asked Questions </a></li>
+					   <li class="menu-item"><a href="https://libanswers.utk.edu/">Frequently Asked Questions </a></li>
 					   <li class="menu-item menu-item-has-children" aria-haspopup="true" aria-expanded="false"><a href="https://www.lib.utk.edu/info/">Resources For:</a>
 					     <ul class="sub-menu">
                           <li class="menu-item"><a title="Information for Undergraduates" href="https://www.lib.utk.edu/info/undergrad/">Undergraduates</a></li>
@@ -124,7 +124,7 @@
 	                      <li class="menu-item"><a title="Disabilities Services" href="https://www.lib.utk.edu/info/disabilities/">Patrons with Disabilities</a></li>
 	
                           </ul></li>
-					   <li class="menu-item"><a href="http://libguides.utk.edu/tutorials">Tutorials</a></li>
+					   <li class="menu-item"><a href="https://libguides.utk.edu/tutorials">Tutorials</a></li>
 					   <li class="menu-item"><a href="https://www.lib.utk.edu/instruct/">Request Instruction</a></li>
 					   <li class="menu-item"><a href="https://www.lib.utk.edu/info/tech/">Technology Support</a></li>
                       </ul>
